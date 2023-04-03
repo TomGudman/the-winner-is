@@ -3,15 +3,14 @@ var students = [
   {name: 'Leo'},
   {name: 'Benjamin'},
   {name: 'Shannon'},
-  {name: 'AK'},
+  {name: 'Mani'},
   {name: 'Ben'},
-  {name: 'George'},
   {name: 'Kaleb'},
   {name: 'Cai'},
   {name: 'Dolly'},
   {name: 'VJ'},
   {name: 'Ross'},
-  {name: 'Not Rob, try again'}
+  {name: 'Not Stu, try again'}
 ];
 
 var shuffle = function (o) {
