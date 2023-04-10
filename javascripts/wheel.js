@@ -2,13 +2,12 @@ var students = [
   {name: 'Tom'},
   {name: 'Leo'},
   {name: 'Benjamin'},
-  {name: 'Shannon'},
+  {name: 'James'},
   {name: 'Mani'},
   {name: 'Ben'},
   {name: 'Kaleb'},
   {name: 'Cai'},
   {name: 'Dolly'},
-  {name: 'VJ'},
   {name: 'Ross'},
   {name: 'Not Stu, try again'}
 ];
