@@ -9,6 +9,7 @@ var students = [
   {name: 'Cai'},
   {name: 'Dolly'},
   {name: 'Ross'},
+  {name: 'Jon'},
   {name: 'Not Stu, try again'}
 ];
 
