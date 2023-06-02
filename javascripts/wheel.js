@@ -10,6 +10,7 @@ var students = [
   {name: 'Dolly'},
   {name: 'Ross'},
   {name: 'Jon'},
+  {name: 'Pasindu'},
   {name: 'Not Stu, try again'}
 ];
 
