@@ -3,6 +3,7 @@ var students = [
   {name: 'Kaleb the survivor'},
   {name: 'Kaleb the lucky guy so far'},
   {name: 'Kaleb\'s turn'},
+  {name: 'Kaleb has down crickets!'},
   {name: 'Not Stu, try again'}
 ];
 
