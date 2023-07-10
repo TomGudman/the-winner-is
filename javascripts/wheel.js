@@ -1,9 +1,19 @@
 var students = [
+  {name: 'Tom'},
+  {name: 'Leo'},
+  {name: 'Benjamin'},
+  {name: 'James'},
+  {name: 'Mani'},
+  {name: 'Ben'},
   {name: 'Kaleb'},
-  {name: 'Kaleb the survivor'},
-  {name: 'Kaleb the lucky guy so far'},
-  {name: 'Kaleb\'s turn'},
-  {name: 'Kaleb has down crickets!'},
+  {name: 'Cai'},
+  {name: 'Wes'},
+  {name: 'Lena'},
+  {name: 'Ross'},
+  {name: 'Jon'},
+  {name: 'Pasindu'},
+  {name: 'Wes'},
+  {name: 'Lena'},
   {name: 'Not Stu, try again'}
 ];
 
