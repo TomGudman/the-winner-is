@@ -12,8 +12,6 @@ var students = [
   {name: 'Ross'},
   {name: 'Jon'},
   {name: 'Pasindu'},
-  {name: 'Wes'},
-  {name: 'Lena'},
   {name: 'Not Stu, try again'}
 ];
 
