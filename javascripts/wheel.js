@@ -1,17 +1,10 @@
 var students = [
-  {name: 'Tom'},
-  {name: 'Leo'},
-  {name: 'Benjamin'},
-  {name: 'James'},
-  {name: 'Mani'},
   {name: 'Ben'},
-  {name: 'Kaleb'},
-  {name: 'Cai'},
-  {name: 'Wes'},
-  {name: 'Lena'},
-  {name: 'Ross'},
-  {name: 'Pasindu'},
-  {name: 'Not Stu, try again'}
+  {name: 'Stu'},
+  {name: 'Jess'},
+  {name: 'Mark'},
+  {name: 'Murray'},
+  {name: 'Stu chooses!'}
 ];
 
 var shuffle = function (o) {
